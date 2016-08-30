@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- 透明 -->
+    <color name="transparent">#00000000</color>
+    <!-- 40% 透明 白色 -->
+    <color name="whiteLayer">#66ffffff</color>
+
+    <!-- 指示器默认背景色 -->
+    <color name="psts_background_tab_pressed">#1AFFFFFF</color>
+    <color name="psts_background_tab_pressed_ripple">#AAFFFFFF</color>
+
+
+    <!-- 基本色 -->
+
+    <!-- 白色 -->
+    <color name="colorWhite">#fff9f9f9</color>
+    <color name="colorWhiteST50">#80f2f2f2</color>
+
+    <!-- 黑色 -->
+    <color name="colorBlack">#ff2f2f2f</color>
+
+    <!-- 红色 -->
+    <color name="colorRed">#ffca0f11</color>
+
+    <!-- 灰色 -->
+    <color name="colorGray">#ff787878</color>
+    <color name="colorGrayST30">#4c787878</color>
+
+    <!-- 蓝色 -->
+    <color name="colorBlue">#ff38a4ff</color>
+
+
+
+</resources>
